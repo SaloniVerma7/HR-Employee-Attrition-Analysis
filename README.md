@@ -51,6 +51,9 @@ By implementing this predictive system, the organization can achieve:
 - **20–30% Improvement** in workforce stability and long-term performance.
 
 ---
+<p align="center">
+  <img src="dashboard_main.png" width="800">
+</p>
 
 ##  5. Repository Structure
 - `Employee_Churn.sql`: Advanced SQL queries for risk segmentation.
