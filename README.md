@@ -40,7 +40,7 @@ I acted as a Consultant to move the company from **Guessing** to **Predicting**.
 
 -
 <p align="center">
-  <img src="dashboard_main.png.png" width="800">
+  <img src="dashboard_details.png.png" width="800">
 </p>
 <p align="center"><i>Figure 1: Executive HR Dashboard - Attrition In-Depth Analysis</i></p>
 ---
