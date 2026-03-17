@@ -31,8 +31,18 @@ I acted as a Consultant to move the company from **Guessing** to **Predicting**.
 - **The Power of ML:** This shifted HR from "What happened?" to "Who is at risk right now?"
 
 ### **Phase 5: Executive Communication (Power BI)**
-- Turned complex algorithms into an interactive **HR Executive Dashboard**. This allows managers to filter by Department or Job Role to see their specific "Health Score."
+- Turned complex algorithms into an interactive **HR-Employee Attrition Dashboard**. This allows managers to filter by Department or Job Role to see their specific "Health Score."
+- 
+<p align="center">
+  <img src="dashboard_main.png.png" width="800">
+</p>
+<p align="center"><i>Figure 1: Executive HR Dashboard - Attrition Overview</i></p>
 
+-
+<p align="center">
+  <img src="dashboard_main.png.png" width="800">
+</p>
+<p align="center"><i>Figure 1: Executive HR Dashboard - Attrition In-Depth Analysis</i></p>
 ---
 
 ##  3. Key Insights (The "Aha!" Moments)
@@ -51,9 +61,6 @@ By implementing this predictive system, the organization can achieve:
 - **20–30% Improvement** in workforce stability and long-term performance.
 
 ---
-<p align="center">
-  <img src="dashboard_main.png.png" width="800">
-</p>
 
 ##  5. Repository Structure
 - `Employee_Churn.sql`: Advanced SQL queries for risk segmentation.
