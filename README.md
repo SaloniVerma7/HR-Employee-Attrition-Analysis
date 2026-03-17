@@ -52,7 +52,7 @@ By implementing this predictive system, the organization can achieve:
 
 ---
 <p align="center">
-  <img src="dashboard_main.png" width="800">
+  <img src="dashboard_main.png.png" width="800">
 </p>
 
 ##  5. Repository Structure
